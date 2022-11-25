@@ -28,16 +28,16 @@ Mostrando 1 archivo modificado con 1 adición y 0 eliminaciones .
 LÉAME.md
 @@ -1,103 +1,104 @@
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
-## HOW TO INSTALL THE PACK
+## HOW TO INSTALL THE 15.0.1 PACK
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
-2. Extract the HATS pack to your SD card
+2. Extract the 15.0.1 pack to your SD card
 3. Inject the SX Loader Payload for unpatched Switch or just boot the console for all patched Switch including the Lites
 4. You will then boot to Hekate. Press launch and choose whatever environment you are going to load.
 ## HOW TO UPDATE THE PACK
 - Delete the previous files or just replace it with the new downloaded pack, as easy as that.
 ## HOW TO UPDATE THE CONSOLE FIRMWARE
 Use this link to always download the updated pack
-## WHY IT IS CALLED HATS
+## WHY IT IS CALLED 15.0.1
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 To boot to real stock, please follow this guide
