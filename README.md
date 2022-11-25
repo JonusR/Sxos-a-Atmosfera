@@ -23,7 +23,8 @@ This pack includes several components, which is the latest version of Hekate, At
 ## HOW TO UPDATE THE PACK
 - Delete the previous files or just replace it with the new downloaded pack, as easy as that.
 ## HOW TO UPDATE THE CONSOLE FIRMWARE
-Use this link to always download the updated pack
+Use this link to always download the updated pack 
+https://darthsternie.net/switch-firmwares/
 ## WHY IT IS CALLED 15.0.1
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
@@ -42,7 +43,7 @@ To boot to real stock, please follow this guide
 5. Download the latest DBI from https://github.com/rashevskyv/dbi/releases
 6. Download the SX Gear boot.dat and boot.ini from https://u.pcloud.link/publink/show?code=XZCMlYXZNIJUnyr352XVWoXCuPo2SmwsRGpk
 7. Download the hekate_ipl.ini and its graphic resource from : https://u.pcloud.link/publink/show?code=XZAkVUXZkgrREaCGTQLsTYfCeUqXFhKDnfBk
-8. Create the DBI folder inside the Switch folder and put the latest DBI into it (the .nro and its .config)
+8. Create the DBI folder inside the Switch folder and put the latest DBI into it (the .nro and its .config) link https://github.com/rashevskyv/dbi/
 9. Download any tools / homebrew apps you want to add to the pack
 10. Combine them all together, like extract them all into a folder, put the payloads file inside the bootloader folder
 ## GOODIES
