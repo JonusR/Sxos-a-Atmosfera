@@ -1,39 +1,19 @@
 # Sxos-a-Atmosfera
-saltar al contenido
-Buscar o saltar a...
-Solicitudes de extracción
-Problemas
-Espacios de código
-Mercado
-Explorar
- 
 @JonusR 
-Público
-Código
-Problemas
-2
-Solicitudes de extracción
-1
-Comportamiento
-Proyectos
-Seguridad
-Perspectivas
-Actualizar README.md
+Actualizado
  main
- 15.0.1
+ 15.0.1 
  
  
  
+ 
+ 
+ 
+ # Link De Descarga aqui Abajo
  
  https://www.mediafire.com/file/zbjw3h340x3bihh/JonusR+15.0.1.rar/file
  
  
- cometido el 25 de agosto 
-1 padre b12c530 compromiso 63a0c8a23db41065cb1d2fa28ba975a1bdb82537
-Mostrando 1 archivo modificado con 1 adición y 0 eliminaciones .
- 1 
-LÉAME.md
-@@ -1,103 +1,104 @@
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE 15.0.1 PACK
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
@@ -98,32 +78,4 @@ To boot to real stock, please follow this guide
 [ XorTroll ](https://github.com/XorTroll)
 
 
-0 comentarios en compromiso63a0c8a
 @JonusR
- 
-Agregar texto de encabezadoAgregar texto en negrita, <Ctrl+b>Agregar texto en cursiva, <Ctrl+i>
-Agregue una cita, <Ctrl+Shift+.>Agregar código, <Ctrl+e>Añadir un enlace, <Ctrl+k>
-Agregar una lista con viñetas, <Ctrl+Shift+8>Agregar una lista numerada, <Ctrl+Shift+7>Agregar una lista de tareas, <Ctrl+Shift+l>
-Mencionar directamente a un usuario o equipo
-Hacer referencia a un problema, una solicitud de extracción o una discusión
-Agregar respuesta guardada
-Deja un comentario
-Ninguno archivo selec.
-Adjunte archivos arrastrándolos y soltándolos, seleccionándolos o pegándolos.
-Se admite el estilo con Markdown
- No estás recibiendo notificaciones de este hilo.
-Pie de página
-© 2022 GitHub, Inc.
-Pie de página de navegación
-Términos
-Privacidad
-Seguridad
-Estado
-Documentos
-Póngase en contacto con GitHub
-Precios
-API
-Capacitación
-Blog
-Sobre
-Update README.md · JonusR/15.0.1@63a0c8a
