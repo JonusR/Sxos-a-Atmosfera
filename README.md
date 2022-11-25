@@ -1,0 +1,122 @@
+# Sxos-a-Atmosfera
+saltar al contenido
+Buscar o saltar a...
+Solicitudes de extracción
+Problemas
+Espacios de código
+Mercado
+Explorar
+ 
+@JonusR 
+Público
+Código
+Problemas
+2
+Solicitudes de extracción
+1
+Comportamiento
+Proyectos
+Seguridad
+Perspectivas
+Actualizar README.md
+ main
+ 15.0.1
+ cometido el 25 de agosto 
+1 padre b12c530 compromiso 63a0c8a23db41065cb1d2fa28ba975a1bdb82537
+Mostrando 1 archivo modificado con 1 adición y 0 eliminaciones .
+ 1 
+LÉAME.md
+@@ -1,103 +1,104 @@
+This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
+## HOW TO INSTALL THE PACK
+1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
+2. Extract the HATS pack to your SD card
+3. Inject the SX Loader Payload for unpatched Switch or just boot the console for all patched Switch including the Lites
+4. You will then boot to Hekate. Press launch and choose whatever environment you are going to load.
+## HOW TO UPDATE THE PACK
+- Delete the previous files or just replace it with the new downloaded pack, as easy as that.
+## HOW TO UPDATE THE CONSOLE FIRMWARE
+Use this link to always download the updated pack
+## WHY IT IS CALLED HATS
+Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
+## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
+To boot to real stock, please follow this guide
+![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
+## HOW TO TRANSFER FILES INTO/FROM YOUR CONSOLE TO YOUR COMPUTER WIRELESSLY
+1. Make sure you have connected your console to your home network
+2. Open the album
+3. Press Y  to find the IP address of your console
+4. Open any FTP manager on your computer
+5. Connect to the IP address shown on your console on port 5000 with username/password : switch/switch
+1. Download the latest Atmosphere from https://github.com/Atmosphere-NX/Atmosphere/releases
+2. Download the latest Hekate from https://github.com/CTCaer/hekate/releases
+3. Download the latest Super from anywhere in this world
+4. Download the latest Tinfoil from Tinfoil.io
+5. Download the latest DBI from https://github.com/rashevskyv/dbi/releases
+6. Download the SX Gear boot.dat and boot.ini from https://u.pcloud.link/publink/show?code=XZCMlYXZNIJUnyr352XVWoXCuPo2SmwsRGpk
+7. Download the hekate_ipl.ini and its graphic resource from : https://u.pcloud.link/publink/show?code=XZAkVUXZkgrREaCGTQLsTYfCeUqXFhKDnfBk
+8. Create the DBI folder inside the Switch folder and put the latest DBI into it (the .nro and its .config)
+9. Download any tools / homebrew apps you want to add to the pack
+10. Combine them all together, like extract them all into a folder, put the payloads file inside the bootloader folder
+## GOODIES
+[CTCaer](https://github.com/CTCaer)
+[Atmosphere-NX](https://github.com/Atmosphere-NX)
+[Blawar](https://github.com/blawar)
+[ITotalJustice](https://github.com/ITotalJustice)
+[suchmememanyskill](https://github.com/suchmememanyskill)
+[shchmue](https://github.com/shchmue)
+[rashevskyv](https://github.com/rashevskyv)
+[fortheusers](https://github.com/fortheusers)
+[Werwolv](https://github.com/WerWolv)
+[carcaschoi](https://github.com/carcaschoi)
+[HamletDuFromage](https://github.com/HamletDuFromage)
+[dezem](https://github.com/dezem)
+[hwfly-nx](https://github.com/hwfly-nx)
+[cathery](https://github.com/cathery)
+[jits](https://jits.cc)
+[titz](https://titz.cf)
+[stealtshop](https://stealthshop.cf)
+[quotanx](https://quotanx.in)
+[pengu](https://pengu.us)
+[teknik](https://teknik.app)
+[DarkMatterCore](https://github.com/DarkMatterCore)
+[J-D-K](https://github.com/J-D-K)
+[tomvita](https://github.com/tomvita)
+[proferabg](https://github.com/proferabg)
+[masagrator](https://github.com/masagrator)
+[SunResearchInstitute](https://github.com/SunResearchInstitute)
+[ SegFault42 ](https://github.com/SegFault42)
+[ mtheall ](https://github.com/mtheall)
+[ joel16 ](https://github.com/joel16)
+[ XorTroll ](https://github.com/XorTroll)
+
+
+0 comentarios en compromiso63a0c8a
+@JonusR
+ 
+Agregar texto de encabezadoAgregar texto en negrita, <Ctrl+b>Agregar texto en cursiva, <Ctrl+i>
+Agregue una cita, <Ctrl+Shift+.>Agregar código, <Ctrl+e>Añadir un enlace, <Ctrl+k>
+Agregar una lista con viñetas, <Ctrl+Shift+8>Agregar una lista numerada, <Ctrl+Shift+7>Agregar una lista de tareas, <Ctrl+Shift+l>
+Mencionar directamente a un usuario o equipo
+Hacer referencia a un problema, una solicitud de extracción o una discusión
+Agregar respuesta guardada
+Deja un comentario
+Ninguno archivo selec.
+Adjunte archivos arrastrándolos y soltándolos, seleccionándolos o pegándolos.
+Se admite el estilo con Markdown
+ No estás recibiendo notificaciones de este hilo.
+Pie de página
+© 2022 GitHub, Inc.
+Pie de página de navegación
+Términos
+Privacidad
+Seguridad
+Estado
+Documentos
+Póngase en contacto con GitHub
+Precios
+API
+Capacitación
+Blog
+Sobre
+Update README.md · JonusR/15.0.1@63a0c8a
