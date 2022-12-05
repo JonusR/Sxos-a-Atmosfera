@@ -79,5 +79,5 @@ To boot to real stock, please follow this guide
 [ joel16 ](https://github.com/joel16)
 [ XorTroll ](https://github.com/XorTroll)
 
-
+##aqui esta el Retroarch. modificado
 @JonusR
