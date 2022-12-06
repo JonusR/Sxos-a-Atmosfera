@@ -83,9 +83,16 @@ To boot to real stock, please follow this guide
 
 
  # Link De Descarga aqui  RetroArch The Full Package
+  
  https://www.mediafire.com/file/a2l7c9a9naxd7b9/RetroArch+The+Full+Package+Ver+1.12.0.rar/file
  
- Descomprima el paquete en la SD y Para Poner l
+
+ 
+ 
+ 
+ 
+ 
+ # Descomprima el paquete en la SD y Para Ponerlo
  Los Roms Balla A La Carpeta Roms En La SD y Seleccione La De Su Preferencia
  
  
@@ -106,6 +113,9 @@ To boot to real stock, please follow this guide
 15. Sony - PlayStation Portable
 
 
+ 
+ # 1. PUEDE INSTALAR EL ARCHIVO NSP QUE ESTAS DENTRO DE LA CARPETA SELLAMA 
+ # 2. RetroArch The Full Package.nsp
 
 
 
