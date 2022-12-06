@@ -79,5 +79,34 @@ To boot to real stock, please follow this guide
 [ joel16 ](https://github.com/joel16)
 [ XorTroll ](https://github.com/XorTroll)
 
-##aqui esta el Retroarch. modificado
+
+
+
+ # Link De Descarga aqui  RetroArch The Full Package
+ https://www.mediafire.com/file/a2l7c9a9naxd7b9/RetroArch+The+Full+Package+Ver+1.12.0.rar/file
+ 
+ Descomprima el paquete en la SD y Para Poner l
+ Los Roms Balla A La Carpeta Roms En La SD y Seleccione La De Su Preferencia
+ 
+ 
+1. FB Alpha - Arcade Games
+2. Nintendo - Game Boy
+3. Nintendo - Game Boy Advance
+4. Nintendo - Game Boy Color
+5. Nintendo - Nintendo 3DS
+6. Nintendo - Nintendo 64
+7. Nintendo - Nintendo DS
+8. Nintendo - Nintendo Entertainment System
+9. Nintendo - Super Nintendo Entertainment System
+10. Sega - Dreamcast
+11. Sega - Game Gear
+12. Sega - Mega Drive - Genesis
+13. SNK - Neo Geo CD
+14. Sony - PlayStation
+15. Sony - PlayStation Portable
+
+
+
+
+
 @JonusR
