@@ -19,8 +19,7 @@ Actualizado
  
  
  
- 
- https://www58.zippyshare.com/v/cpRzqaIS/file.html          JonusR 15.1.1 Archivos modificados
+https://www.mediafire.com/file/f1r027oaizrtkn8/Jonus_R_15.1.1.zip/file          JonusR 15.1.1 Archivos modificados
  
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE 15.0.1 PACK
