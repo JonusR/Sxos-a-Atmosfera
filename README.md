@@ -43,8 +43,7 @@ https://darthsternie.net/switch-firmwares/
 ## WHY IT IS CALLED 16.0.0
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
-To boot to real stock, please follow this guide
-![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
+To boot to real stock, please follow this gui
 ## HOW TO TRANSFER FILES INTO/FROM YOUR CONSOLE TO YOUR COMPUTER WIRELESSLY
 1. Make sure you have connected your console to your home network
 2. Open the album
