@@ -18,7 +18,16 @@ Actualizado
  
  
   https://www.mediafire.com/file/nb5ugmhi2wc33nd/Jonus_R_15.1.1.zip/file      JonusR 15.1.1 Archivos modificados
- 
+
+
+
+
+
+
+https://www.mediafire.com/file/c7b7a59gx2zqg7m/NSW_Sxos_A_Atomsfera_16.0.0_Released.rar/file              JonusR 16.0.0 En faceta de Prueva
+
+
+
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE 15.0.1 PACK
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
