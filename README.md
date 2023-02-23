@@ -2,7 +2,7 @@
 @JonusR 
 Actualizado
  main
- 15.0.1 
+ 16.0.0
  
  
  
@@ -24,12 +24,12 @@ Actualizado
 
 
 
-https://www.mediafire.com/file/c7b7a59gx2zqg7m/NSW_Sxos_A_Atomsfera_16.0.0_Released.rar/file              JonusR 16.0.0 En faceta de Prueva
+  https://www.mediafire.com/file/c7b7a59gx2zqg7m/NSW_Sxos_A_Atomsfera_16.0.0_Released.rar/file              JonusR 16.0.0 En faceta de Prueva
 
 
 
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
-## HOW TO INSTALL THE 15.0.1 PACK
+## HOW TO INSTALL THE 16.0.0 PACK
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
 1.1   OJO NO ELIMINA LA CARPETA NINTENDO , EMUMMC , BACKUP.
 2. Extract the 15.0.1 pack to your SD card
@@ -40,7 +40,7 @@ This pack includes several components, which is the latest version of Hekate, At
 ## HOW TO UPDATE THE CONSOLE FIRMWARE
 Use this link to always download the updated pack 
 https://darthsternie.net/switch-firmwares/
-## WHY IT IS CALLED 15.0.1
+## WHY IT IS CALLED 16.0.0
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 To boot to real stock, please follow this guide
