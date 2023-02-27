@@ -11,20 +11,7 @@ Actualizado
  
  # Link De Descarga aqui Abajo
  
- https://www.mediafire.com/file/zbjw3h340x3bihh/JonusR+15.0.1.rar/
- 
- 
- 
- 
- 
-  https://www.mediafire.com/file/nb5ugmhi2wc33nd/Jonus_R_15.1.1.zip/file      JonusR 15.1.1 Archivos modificados
 
-
-
-
-
-
-  https://www.mediafire.com/file/c7b7a59gx2zqg7m/NSW_Sxos_A_Atomsfera_16.0.0_Released.rar/file              JonusR 16.0.0 En faceta de Prueva
 
 
 
