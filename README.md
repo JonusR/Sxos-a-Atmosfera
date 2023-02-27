@@ -28,6 +28,11 @@ Actualizado
 
 
 
+
+
+
+https://www.mediafire.com/file/l0xnkzcxbm9czhs/NSW+Sxos+A+Atomsfera+16.0.0.zip/file Full
+
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE 16.0.0 PACK
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
