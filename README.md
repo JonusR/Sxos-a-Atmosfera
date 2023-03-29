@@ -1,8 +1,7 @@
 # Sxos-a-Atmosfera
 
 1.5.1-3 Latest
-This pack is compatible with Nintendo Switch Firmware UP TO 16.0.1, and it includes :
-
+This pack is compatible with Nintendo Switch  16.0.1
 Hekate v6.0.2 & Nyx v1.5.2
 Atmosphere 1.5.1
 Tinfoil 16.0 NEW
