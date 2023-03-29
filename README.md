@@ -1,68 +1,4 @@
-# Sxos-a-Atmosfera
-
-1.5.1-3 Latest
-This pack is compatible with Nintendo Switch  16.0.1
-Hekate v6.0.2 & Nyx v1.5.2
-Atmosphere 1.5.1
-Tinfoil 16.0 NEW
-Sigmapatches for AMS 1.5.1 and FW 16.0.0
-DBI 527
-Homebrew Appstore 2.3.2
-FTPD Pro 3.1.0
-NX-Shell 4.0.1
-Tesla Menu (ovlmenu.ovl) 16.00
-Tesla Sysmodules 1.3.1
-Status Monitor Overlay 0.8.1
-Mission Control 0.9.0
-NXDumpTool
-JKSV 02.23.2023
-Edizon SE 3.8.37
-AIO-Switch-Updater 2.21.3
-Goldleaf
-Linkalho 2.0.1
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-PAYLOADS
-
-Tegraexplorer 4.5.0 from dezem NEW
-Lockpick_RCM v1.9.10 NEW
-HWFLY Toolbox 1.1 (for chipped consoles with the HWFLY-NX Firmware)
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-TEGRAEXPLORER SCRIPTS
-
-Systemrestore V3
-Dump Saves
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-SX Gear 1.1 Boot.dat
-
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
-
-THIS PACK IS UPDATED on 23/03/2023
-
-CHANGELOG
-
-1.5.1-2 : Updated the Homebrew App Store to 2.3.1
-1.5.1-3 : Updated DBI to 527
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@JonusR 
-Actualizado
- main
+# Sxos-a-Atmosfera in
  16.0.0
  
  
@@ -72,9 +8,6 @@ Actualizado
  
  # Link De Descarga aqui Abajo
  
-
-
-
 
 
 
