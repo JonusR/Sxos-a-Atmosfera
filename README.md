@@ -16,7 +16,6 @@
 https://www.mediafire.com/file/qfwpc4sz91r20ws/NSW+Sxos+A+Atomsfera+16.0.0.zip/file completo
 
 
-https://www21.zippyshare.com/v/0GI9eqED/file.html    16.0.1
 https://www.mediafire.com/file/jqdztf1fapy87xy/NSW+Sxos+A+Atomsfera+16.0.1.zip/file
 
 
