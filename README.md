@@ -8,7 +8,7 @@
  #Link de descarga aqui abajo
  
  
- https://www.mediafire.com/file/pxehlh6z4qspxfj/NSW_Sxos_A_Atomsfera_16.0.3.rar/file
+ https://www.mediafire.com/file/pxehlh6z4qspxfj/NSW_Sxos_A_Atomsfera_16.0.3.rar/file       CONTRASEÑA: Jonus Ravelo
  
  
  https://www.mediafire.com/file/u637435y9v7iv2v/Atmosphere_Full_Pack_16.0.0_ams_1.5.3.rar/file
