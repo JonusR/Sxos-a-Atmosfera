@@ -14,7 +14,7 @@
  https://www.mediafire.com/file/u637435y9v7iv2v/Atmosphere_Full_Pack_16.0.0_ams_1.5.3.rar/file
 
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
-## HOW TO INSTALL THE 16.0.0 PACK
+## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
 1.1   OJO NO ELIMINA LA CARPETA NINTENDO , EMUMMC , BACKUP.
 2.  Abril el contenido del PAQUETE ARRASTRE LOS ARCRIVOS. QUE DICE SD A SU MEMORIA MICRO SD RAIZ.  OJO SOLO ARRASTRE LOS ARCHIVOS COMO SE INDICA.
@@ -25,7 +25,7 @@ This pack includes several components, which is the latest version of Hekate, At
 ## HOW TO UPDATE THE CONSOLE FIRMWARE
 Use this link to always download the updated pack 
 https://darthsternie.net/switch-firmwares/
-## WHY IT IS CALLED 16.0.0
+## WHY IT IS CALLED 16.X.X.
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 To boot to real stock, please follow this gui
