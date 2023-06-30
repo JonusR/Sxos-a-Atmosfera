@@ -13,6 +13,10 @@
  
  https://www.mediafire.com/file/u637435y9v7iv2v/Atmosphere_Full_Pack_16.0.0_ams_1.5.3.rar/file
 
+
+
+ https://uptobox.com/dqme6jwnftzu 16.0.3 Atmosphere
+
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
