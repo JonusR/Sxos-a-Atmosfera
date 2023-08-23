@@ -26,7 +26,7 @@ This pack includes several components, which is the latest version of Hekate, At
 ## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
 1.1   OJO NO ELIMINA LA CARPETA NINTENDO , EMUMMC , BACKUP.
-2.  Abril el contenido del PAQUETE ARRASTRE LOS ARCRIVOS. QUE DICE SD A SU MEMORIA MICRO SD RAIZ.  OJO SOLO ARRASTRE LOS ARCHIVOS COMO SE INDICA.
+2.  Abril el contenido del PAQUETE ARRASTRE LOS ARCRIVOS. SU MEMORIA MICRO SD RAIZ.  OJO SOLO ARRASTRE LOS ARCHIVOS COMO SE INDICA.
 3. Inject the SX Loader Payload for unpatched Switch or just boot the console for all patched Switch including the Lites
 4. You will then boot to Hekate. Press launch and choose whatever environment you are going to load.
 ## HOW TO UPDATE THE PACK
