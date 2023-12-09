@@ -26,7 +26,7 @@
  https://www.mediafire.com/file/2pttpqay6zvjmrk/SXOS_A_ATMOSFERA_17.0.0-pre-release.zip/file      17.0.0
 
 
- https://www.mediafire.com/file/xar4xclpjxv0nkf/Sxos_a_Atmosfera_17.0.1.rar/file
+ https://www.mediafire.com/file/xar4xclpjxv0nkf/Sxos_a_Atmosfera_17.0.1.rar/file        17.0.1
 
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE PACK.
