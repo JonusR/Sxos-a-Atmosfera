@@ -98,8 +98,10 @@ To boot to real stock, please follow this gui
  # Link De Descarga aqui  RetroArch The Full Package
   
  https://www.mediafire.com/file/a2l7c9a9naxd7b9/RetroArch+The+Full+Package+Ver+1.12.0.rar/file
- 
 
+
+ 
+https://mega.nz/file/6VZRVDTS#7iJk6uADCQ_p7OtpoXSayu3ctE6gS-RMvoJyNHsGyNQ   RetroArch+The+Full+Package+Ver+1.12.0
  
  
  
