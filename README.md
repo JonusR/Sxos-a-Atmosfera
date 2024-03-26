@@ -23,6 +23,10 @@
 
  https://www.mediafire.com/file/xar4xclpjxv0nkf/Sxos_a_Atmosfera_17.0.1.rar/file        17.0.1
 
+
+
+ https://www.mediafire.com/file/tker3f0zjlwphlk/Sxos+a+Atmosfera.17.0.10.rar/file       17.0.10
+
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
