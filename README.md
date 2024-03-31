@@ -28,7 +28,9 @@
  https://www.mediafire.com/file/tker3f0zjlwphlk/Sxos+a+Atmosfera.17.0.10.rar/file       17.0.10
 
 
-https://www.mediafire.com/file/ydjz3kjwoo476fv/Sxos_a_Atmosfera_18.0.0.rar/file         18.0.0
+https://www.mediafire.com/file/458jzkg1xwacvao/Jonus+Games+18.0.0.rar/file              18.0.0
+
+https://mega.nz/file/r45RXaLC#Vie8ubi3csqV-vcwIhnStvfCH0Orfz9Ifzpd3ASlbbY               18.0.0
 
 
 Switch 90DNS tester
