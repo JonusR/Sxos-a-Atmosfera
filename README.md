@@ -22,56 +22,14 @@
 
 
  https://www.mediafire.com/file/xar4xclpjxv0nkf/Sxos_a_Atmosfera_17.0.1.rar/file        17.0.1
+ 
+
+https://mega.nz/file/D1hz2YKL#abhN2LkSoNHltmk1daOMqzecf2bkoS2RJ--90qtmgP8               18.0.0 Final
 
 
-
- https://www.mediafire.com/file/tker3f0zjlwphlk/Sxos+a+Atmosfera.17.0.10.rar/file       17.0.10
-
-
-https://www.mediafire.com/file/458jzkg1xwacvao/Jonus+Games+18.0.0.rar/file              18.0.0
-
-https://mega.nz/file/r45RXaLC#Vie8ubi3csqV-vcwIhnStvfCH0Orfz9Ifzpd3ASlbbY               18.0.0
+https://www.mediafire.com/file/dhf1xu8i7w0hbrm/Jonus+Games+18.0.0.rar/file              18.0.0 Final
 
 
-Switch 90DNS tester
-Sigmapatches for 18.0.0
-hekate v6.1.1 & Nyx v1.6.1
-Atmosphere 1.7.0 Pre-release
-Tinfoil 17.0
-DBI 656
-Homebrew Appstore 2.3.2
-FTPD Pro 3.1.0
-NX-Shell 4.0.1
-Tesla Menu (ovlmenu.ovl) 16.00
-JKSV 02.23.2023
-Edizon SE 3.8.37
-AIO-Switch-Updater V2.23.2
-Goldleaf 1.0.0
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-TESLA OVERLAYS
-
-QuickNTP 1.2.8
-Status Monitor 1.0.2
-Edizon 1.0.7
-Sysmodules 1.2.2
-Sys-Clk 2.0.0-RC
-Sys-patch 1.5.0
-DNS-MITM_Manager 0.2.0
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-PAYLOADS
-
-Tegraexplorer 4.1.1
-Lockpick_RCM v1.9.12
-HWFLY Toolbox 1.1 (for chipped consoles with the HWFLY-NX Firmware)
-PicoFly Toolbox 0.2 (for chipped consoles with the Picofly)
-Instinct-NX Toolbox 1.2.2
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-TEGRAEXPLORER SCRIPTS
-
-Systemrestore V3
-Dump Saves
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-SX Gear 1.1 Boot.dat
 
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE PACK.
