@@ -36,7 +36,7 @@ https://www.mediafire.com/file/z1y8v66uba9xbwq/Jonus+Games+18.0.1.rar/file      
  https://mega.nz/file/DxwhWLhT#RAfCMUb_Et9VsQW2tNBzYq81x8xVD3b9bEcYdIKj-m8              18.0.1 Final
 
 
-
+ https://mega.nz/file/6oxzFLZT#0WKplEEVzPBYmjZ7mHeFSZGRbLz-zGX4mfDgCjcycvw              18.1.0 final
  https://www.mediafire.com/file/nke40atltibh95p/Jonus_Games_18.1.0.rar/file             18.1.0 final
 
 
