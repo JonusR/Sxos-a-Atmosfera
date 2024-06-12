@@ -36,6 +36,10 @@ https://www.mediafire.com/file/z1y8v66uba9xbwq/Jonus+Games+18.0.1.rar/file      
  https://mega.nz/file/DxwhWLhT#RAfCMUb_Et9VsQW2tNBzYq81x8xVD3b9bEcYdIKj-m8              18.0.1 Final
 
 
+
+ https://www.mediafire.com/file/nke40atltibh95p/Jonus_Games_18.1.0.rar/file             18.1.0 final
+
+
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
