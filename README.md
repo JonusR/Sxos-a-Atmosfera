@@ -1,4 +1,4 @@
-# JONUSR GAME #
+# JONUSGAME #
  
  
  
@@ -38,6 +38,11 @@ https://www.mediafire.com/file/z1y8v66uba9xbwq/Jonus+Games+18.0.1.rar/file      
 
  https://mega.nz/file/6oxzFLZT#0WKplEEVzPBYmjZ7mHeFSZGRbLz-zGX4mfDgCjcycvw              18.1.0 final
  https://www.mediafire.com/file/nke40atltibh95p/Jonus_Games_18.1.0.rar/file             18.1.0 final
+
+https://1fichier.com/?52lsgvoum6kgq6icpe2i                                              18.1.0 Final Esta Completo
+
+https://www.mediafire.com/file/j8ra51ssvgvujue/Jonus_Games_18.1.0_F.rar/file            18.1.0 Final Esta Completo
+https://www.mediafire.com/file/j8ra51ssvgvujue/Jonus+Games+18.1.0+F.rar/file
 
 
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
