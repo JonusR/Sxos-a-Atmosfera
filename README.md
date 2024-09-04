@@ -1,6 +1,56 @@
 # JONUSGAME #
  
- 
+ APLICACIONES DE ELABORACIÓN CASERA
+Probador de conmutadores 90DNS
+Hekate+AMS-package3-sigpatches-1.7.1-cfw-18.1.0V2 de Impeeza
+hekate v6.2.1 y Nyx v1.6.3 
+Atmosphere 1.7.0
+Tinfoil 18.0 V1 Modo Applet
+DBI 658
+Homebrew Appstore 2.3.2
+FTPD Pro 3.1.0
+NX-Shell 4.0.1
+Menú Tesla (ovlmenu.ovl) 16.00
+JKSV 08.06.2024
+Edizon SE 3.8.37
+Actualizador de conmutadores AIO V2.23.2
+Goldleaf 1.0.0
+Mission Control 0.11.1
+Linkalho 2.0.1
+________________________________________
+SUPERPOSICIONES DE TESLA
+QuickNTP 1.2.8
+Monitor de estado 1.1.3
+Edizon Overlay 1.0.8
+Sysmodules 1.2.2
+DNS-MITM_Manager 0.2.0
+Sys-Clk 2.0.0-rc
+Sys-patch 1.5.2
+________________________________________
+CARGAS ÚTILES
+Tegraexplorer 4.2.0 (versión preliminar)
+Lockpick_RCM v1.9.12
+HWFLY Toolbox 1.1 (solo para modchip Hwfly)
+PicoFly Toolbox 0.2 (solo para modchip Picofly)
+Instinct-NX Toolbox 1.2.2 (solo para modchip V6S)
+Prodinfo_gen 1.1.0
+________________________________________
+SCRIPTS DE TEGRAEXPLORER
+
+Volcados guardados de Systemrestore V3
+________________________________________
+ARCHIVO DE ARRANQUE
+Archivo Boot.dat de SX Gear 1.1
+________________________________________
+REGISTRO DE CAMBIOS
+18.1.0 F
+•	
+•	Se eliminó la ubicación de Tinfoil.conf ya que todas las tiendas gratuitas desaparecieron y están inactivas.
+•	La superposición del monitor de estado se actualizó a la versión 1.1.2
+•	Se agregó la versión Tinfoil NSP dentro de la carpeta tinfoil/nsp
+•	Se agregó la carga útil Prodinfo_gen 1.1.0
+
+
  
  
  
