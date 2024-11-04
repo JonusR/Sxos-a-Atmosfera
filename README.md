@@ -50,7 +50,7 @@ https://www.mediafire.com/file/ke6ml0px934mvyf/Jonus_Games_19.0.0.rar/file     1
 https://1fichier.com/?zdil49dc79o2fhhh8huf                                     19.0.0
 
 
-
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/19.0.1/Jonus.Games.19.0.1.rar       19.0.1
 
 
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
@@ -122,7 +122,8 @@ To boot to real stock, please follow this gui
 
  # Link De Descarga aqui  RetroArch The Full Package
 ![RetroArch](https://github.com/user-attachments/assets/40c20cc6-7ded-4a58-8df2-5b0131bc6a14)
- 
+
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Full.Package.nsp
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Full.Package.Ver.1.10.3.rar
  
  # Descomprima el paquete en la SD y Para Ponerlo
