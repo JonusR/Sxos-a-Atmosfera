@@ -1,67 +1,6 @@
 # JONUSGAME #
-Este paquete es compatible con el firmware de Nintendo Switch 19.0.0 e incluye:
+ ![Logo Jonus](https://github.com/user-attachments/assets/b39a8175-ec64-411e-90ff-b3f9bbcd98a7)
 
-APLICACIONES DE ELABORACIÓN CASERA
-
-Comprobador de conmutadores 90DNS
-Hekate+AMS-package3-sigpatches-1.8.0P2-cfw-19.0.0_V4
-hekate_ctcaer_6.2.2_Nyx_1.6.4
-Atmosphere-1.8.0-prerelease-c6014b533
-Tinfoil 18.0 V1 Modo subprograma
-DBI 658
-Appstore de Homebrew 2.3.2
-FTPD Pro 3.1.0
-NX-Shell 4.0.1
-Menú Tesla (ovlmenu.ovl) 16.00
-JKSV 08.06.2024
-Edizon SE 3.8.37
-Actualizador de conmutadores AIO V2.23.2
-Goldleaf 1.0.0
-Mission Control 0.12.0
-Linkalho 2.0.1
-Tinwoo 1.0.26
-
-SUPERPOSICIONES DE TESLA
-
-QuickNTP 1.2.8
-Monitor de estado 1.1.4
-Edizon Overlay 1.0.8
-Módulos del sistema 1.2.2
-DNS-MITM_Manager 0.2.0
-sys-clk-2.0.1
-Sys-patch 1.5.3-Dirty
-
-CARGAS ÚTILES
-
-Tegraexplorer 4.2.0 (versión preliminar)
-Lockpick_RCM_1_9_13_Decscots-Zoria
-HWFLY Toolbox 1.1 (solo para modchip Hwfly)
-PicoFly Toolbox 0.2 (solo para modchip Picofly)
-Instinct-NX Toolbox 1.2.2 (solo para modchip V6S)
-Prodinfo_gen 1.1.0
-
-SCRIPTS DE TEGRAEXPLORER
-
-
-Volcados guardados de Systemrestore V3
-
-ARCHIVO DE ARRANQUE
-
-Archivo Boot.dat de SX Gear 1.1
-
-REGISTRO DE CAMBIOS
-
-1.8.0-1.8.0-versión preliminar-V1
-
-Uso de Hekate+AMS-package3-sigpatches-1.8.0P2-cfw-19.0.0_V4
-Se agregó Mission Control 0.12.0
-Se agregó Tinfoil-Forwarder para ejecutar Tinfoil. Instálelo con DBI o Tinwoo desde la carpeta switch/tinfoil/nsp
-Espere errores, etc. Esta todavía no es la versión final .
-
- 
- 
- 
- 
  #Link de descarga aqui abajo
  
  
