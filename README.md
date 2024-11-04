@@ -122,15 +122,8 @@ To boot to real stock, please follow this gui
 
  # Link De Descarga aqui  RetroArch The Full Package
 ![RetroArch](https://github.com/user-attachments/assets/40c20cc6-7ded-4a58-8df2-5b0131bc6a14)
-
  
-  
-
-https://mega.nz/file/6VZRVDTS#7iJk6uADCQ_p7OtpoXSayu3ctE6gS-RMvoJyNHsGyNQ   RetroArch+The+Full+Package+Ver+1.12.0
- 
- 
- 
- 
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Full.Package.Ver.1.10.3.rar
  
  # Descomprima el paquete en la SD y Para Ponerlo
  Los Roms Balla A La Carpeta Roms En La SD y Seleccione La De Su Preferencia
