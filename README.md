@@ -157,6 +157,19 @@ https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Fu
 
 
 
+# 1. MOD PARA MARIO KART 8 VERCION 3.0.3
+![Captura de pantalla 2024-11-16 205625](https://github.com/user-attachments/assets/dc34b2f5-7e08-46fa-8613-452151cae6a0)
+
+
+A Partir de esta version 
+![Captura de pantalla 2024-11-16 205604](https://github.com/user-attachments/assets/5b3c67b6-c1a9-4cfb-95fb-869bd4f928fd)
+
+![Captura de pantalla 2024-11-16 205644](https://github.com/user-attachments/assets/64838fed-10d9-488b-aca2-12f6419163cf)
+
+
+
+
+
 
 
 
