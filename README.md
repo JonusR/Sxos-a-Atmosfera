@@ -82,6 +82,7 @@ To boot to real stock, please follow this gui
 ![RetroArch](https://github.com/user-attachments/assets/40c20cc6-7ded-4a58-8df2-5b0131bc6a14)
 
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Full.Package.nsp
+
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Full.Package.Ver.1.10.3.rar
 
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/20.1.0/RetroArch.The.Full.Package.Ver.1.11.0.rar
