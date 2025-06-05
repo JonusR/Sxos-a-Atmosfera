@@ -83,6 +83,7 @@ To boot to real stock, please follow this gui
 
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Full.Package.nsp
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/re/RetroArch.The.Full.Package.Ver.1.10.3.rar
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/download/20.1.0/RetroArch.The.Full.Package.Ver.1.11.0.rar
  
  # Descomprima el paquete en la SD y Para Ponerlo
  Los Roms Balla A La Carpeta Roms En La SD y Seleccione La De Su Preferencia
