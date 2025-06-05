@@ -53,6 +53,9 @@ https://1fichier.com/?zdil49dc79o2fhhh8huf                                     1
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/19.0.1-3               19.0.1
 
 
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.1.0                 20.1.0
+
+
 This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 ## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
