@@ -2,52 +2,7 @@
  ![Logo Jonus](https://github.com/user-attachments/assets/b39a8175-ec64-411e-90ff-b3f9bbcd98a7)
 
  #Link de descarga aqui abajo
- 
- 
- https://www.mediafire.com/file/pxehlh6z4qspxfj/NSW_Sxos_A_Atomsfera_16.0.3.rar/file       CONTRASEÑA: Jonus Ravelo
- 
- 
- https://www.mediafire.com/file/u637435y9v7iv2v/Atmosphere_Full_Pack_16.0.0_ams_1.5.3.rar/file
 
-
-
- https://www.mediafire.com/file/cow5nswp9l5m9v2/NSW_Sxos_A_Atomsfera_16.1.0.rar/file              16.1.0
-
-
- https://www.mediafire.com/file/2pttpqay6zvjmrk/SXOS_A_ATMOSFERA_17.0.0-pre-release.zip/file      17.0.0
-
-
- https://www.mediafire.com/file/xar4xclpjxv0nkf/Sxos_a_Atmosfera_17.0.1.rar/file        17.0.1
- 
-
-https://mega.nz/file/D1hz2YKL#abhN2LkSoNHltmk1daOMqzecf2bkoS2RJ--90qtmgP8               18.0.0 
-
-
-https://www.mediafire.com/file/dhf1xu8i7w0hbrm/Jonus+Games+18.0.0.rar/file              18.0.0 
-
-
-https://www.mediafire.com/file/z1y8v66uba9xbwq/Jonus+Games+18.0.1.rar/file              18.0.1 
-
-
- https://mega.nz/file/DxwhWLhT#RAfCMUb_Et9VsQW2tNBzYq81x8xVD3b9bEcYdIKj-m8              18.0.1 
-
- https://mega.nz/file/6oxzFLZT#0WKplEEVzPBYmjZ7mHeFSZGRbLz-zGX4mfDgCjcycvw              18.1.0 
- https://www.mediafire.com/file/nke40atltibh95p/Jonus_Games_18.1.0.rar/file             18.1.0 
-
-https://1fichier.com/?52lsgvoum6kgq6icpe2i                                              18.1.0 
-
-https://www.mediafire.com/file/j8ra51ssvgvujue/Jonus_Games_18.1.0_F.rar/file            18.1.0 
-https://www.mediafire.com/file/j8ra51ssvgvujue/Jonus+Games+18.1.0+F.rar/file
-
-https://1fichier.com/?dstgeb6rd8xw3lsatwty Final
-
-
-https://www.mediafire.com/https://www.mediafire.com/file/8tii2w5r6cetnym/Jonus+Games+18.1.0+Final.rar/file
-
-
-https://www.mediafire.com/file/ke6ml0px934mvyf/Jonus_Games_19.0.0.rar/file     19.0.0
-
-https://1fichier.com/?zdil49dc79o2fhhh8huf                                     19.0.0
 
 
 https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/19.0.1-3               19.0.1
