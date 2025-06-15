@@ -21,7 +21,7 @@ https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.1.1                 2
 ![FIRWARES](https://github.com/user-attachments/assets/821470e3-b5f6-4b09-9c12-a9c5ec72b288)
 
 
-
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/edit/Firwares
  
 ## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
