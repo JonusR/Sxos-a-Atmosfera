@@ -1,7 +1,9 @@
 # JONUSGAME #
  ![Logo Jonus](https://github.com/user-attachments/assets/b39a8175-ec64-411e-90ff-b3f9bbcd98a7)
 
- #Link de descarga aqui abajo
+This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file.
+
+##Link de descarga aqui abajo##
 
 
 
@@ -20,8 +22,7 @@ https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.1.1                 2
 
 
 
-
-This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
+ 
 ## HOW TO INSTALL THE PACK.
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
 1.1   OJO NO ELIMINA LA CARPETA NINTENDO , EMUMMC , BACKUP.
