@@ -7,13 +7,7 @@ This pack includes several components, which is the latest version of Hekate, At
 
 
 
-https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/19.0.1-3               19.0.1
-
-
-https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.1.0                 20.1.0
-
-
-https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.1.1                 20.1.1
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.1.5            20.1.5
 
 
 ## FIRWARE TODOS ##
