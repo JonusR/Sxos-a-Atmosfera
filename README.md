@@ -7,7 +7,7 @@ This pack includes several components, which is the latest version of Hekate, At
 
 
 
-https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.2.0            
+https://github.com/JonusR/Sxos-a-Atmosfera/releases/tag/20.3.0            
 
 
 ## FIRWARE TODOS ##
@@ -50,35 +50,65 @@ To boot to real stock, please follow this gui
 10. Combine them all together, like extract them all into a folder, put the payloads file inside the bootloader folder
 ## GOODIES
 [CTCaer](https://github.com/CTCaer)
+
 [Atmosphere-NX](https://github.com/Atmosphere-NX)
+
 [Blawar](https://github.com/blawar)
+
 [ITotalJustice](https://github.com/ITotalJustice)
+
 [suchmememanyskill](https://github.com/suchmememanyskill)
+
 [shchmue](https://github.com/shchmue)
+
 [rashevskyv](https://github.com/rashevskyv)
+
 [fortheusers](https://github.com/fortheusers)
+
 [Werwolv](https://github.com/WerWolv)
+
 [carcaschoi](https://github.com/carcaschoi)
+
 [HamletDuFromage](https://github.com/HamletDuFromage)
+
 [dezem](https://github.com/dezem)
+
 [hwfly-nx](https://github.com/hwfly-nx)
+
 [cathery](https://github.com/cathery)
+
 [jits](https://jits.cc)
+
 [titz](https://titz.cf)
+
 [stealtshop](https://stealthshop.cf)
+
 [quotanx](https://quotanx.in)
+
 [pengu](https://pengu.us)
+
 [teknik](https://teknik.app)
+
 [DarkMatterCore](https://github.com/DarkMatterCore)
+
 [J-D-K](https://github.com/J-D-K)
+
 [tomvita](https://github.com/tomvita)
+
 [proferabg](https://github.com/proferabg)
+
 [masagrator](https://github.com/masagrator)
+
 [SunResearchInstitute](https://github.com/SunResearchInstitute)
+
 [ SegFault42 ](https://github.com/SegFault42)
+
 [ mtheall ](https://github.com/mtheall)
+
 [ joel16 ](https://github.com/joel16)
+
 [ XorTroll ](https://github.com/XorTroll)
+
 
 
 
