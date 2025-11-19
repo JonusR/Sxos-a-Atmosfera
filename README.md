@@ -175,7 +175,67 @@ https: https://mega.nz/file/0cUDjKLR#GXoPWJbPzq7Pc5jBIiomS-dbn27dN3r-KlFkrx-F2WM
 NOTA: 
 La última versión de CTGP Deluxe (1.1.1) solo funciona en Mario Kart 8 Deluxe versión 3.0.3; no actualice su juego si desea jugar CTGP Deluxe.
 
+                             ## Registros de cambios ##
 
+v1.1.1 - 23 de marzo de 2025
+
+Nuevas características:
+
+Se actualizó el modelo de monedas en los cursos de Arcade.
+
+Actualizaciones de la interfaz de usuario:
+
+Icono de pista actualizado para DS Desert Hills
+
+Icono de pista actualizado para Cheep Cheep Cove
+
+Icono de pista actualizado para GCN Mushroom Bridge
+
+Icono de seguimiento actualizado para el oleoducto de la planta Piranha
+
+Se ajustaron los autores de las pistas para algunos cursos.
+
+Actualizaciones musicales :
+
+Música actualizada de la última vuelta de DS Rainbow Road
+
+Actualizaciones de seguimiento :
+
+Se actualizó SNES Choco Island 1 a la última versión.
+
+Se actualizó Cheep Cheep Cove a la última versión.
+
+DKR Walrus Cove se actualizó a la última versión.
+
+Se actualizó el Castillo de Bowser de Wii a la última versión.
+
+Se actualizó Dry Dry Falls a la última versión
+
+Cavi Cape Cliffside se actualizó a la última versión.
+
+Se actualizó el oleoducto de la planta Piranha a la última versión.
+
+DS Desert Hills se actualizó a la última versión
+
+Se actualizó el Área 64 a la última versión.
+
+Se actualizó GCN Mushroom Bridge a la última versión.
+
+Se actualizó el juego N64 Bowser's Castle a la última versión.
+
+Actualización de GBA Rainbow Road a la última versión
+
+DS Delfino Square se actualizó a la última versión
+
+Corrección de errores :
+
+Se ha corregido un error que provocaba el cierre inesperado del juego al seleccionar el circuito SNES Mario Circuit 2 en carreras de 150cc.
+
+Se corrigió un error que provocaba el cierre inesperado del juego al seleccionar el modo multijugador a pantalla dividida en el circuito de Mario de GameCube con el objeto del mapa de pájaros.
+
+Se han abordado varios problemas para mejorar la experiencia de juego.
+
+TENGA EN CUENTA QUE LOS JUGADORES DE LA VERSIÓN 1.1.1 NO PODRÁN EMPAREJARSE CON LOS JUGADORES DE LA VERSIÓN 1.1.0 EN MODOS INALÁMBRICOS/LAN
 
 
 
