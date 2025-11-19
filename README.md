@@ -175,7 +175,7 @@ https: https://mega.nz/file/0cUDjKLR#GXoPWJbPzq7Pc5jBIiomS-dbn27dN3r-KlFkrx-F2WM
 NOTA: 
 La última versión de CTGP Deluxe (1.1.1) solo funciona en Mario Kart 8 Deluxe versión 3.0.3; no actualice su juego si desea jugar CTGP Deluxe.
 
-                             ## Registros de cambios ##
+   ## Registros de cambios ##                                                                                         
 
 v1.1.1 - 23 de marzo de 2025
 
